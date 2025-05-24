@@ -4,7 +4,3 @@
   </a>
 </p>
 
-<p align="center">
-Developing applications for network hardware.
-Vulnerabilty research for network applications.
-</p>
