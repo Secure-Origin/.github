@@ -20,7 +20,7 @@ We build adversary emulation plans, detection rules, and threat intelligence tha
 
 **We release:**
 - Adversary emulation plans and Caldera abilities
-- Detection rules (Sigma, YARA, auditd, eBPF)
+- Detection rules
 - Threat intelligence feeds and OCSF transforms
 - Validation frameworks and security tooling
 
